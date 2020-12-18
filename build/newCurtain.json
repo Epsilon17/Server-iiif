@@ -13,7 +13,7 @@
     ],
     "manifests": [
         {
-            "@id": "https://gist.githubusercontent.com/Epsilon17/e160732a84557f58ed79510ade8f3a1a/raw/6dbb260f014b45c8c224767fc5820d532586a6f3/firstManifest.json",
+            "@id": "https://research.ng-london.org.uk/iiif-exp/manifests/bellini-petermartyr",
             "@type": "sc:Manifest",
             "label": "An example image",
             "service": [
