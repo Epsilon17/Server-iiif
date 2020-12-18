@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://github.com/Epsilon17/Server-iiif/blob/master/build/newCurtain.json",
+    "@id": "https://gist.githubusercontent.com/Epsilon17/c6afdb2f6ad360e3850dab3735a09271/raw/92eb37ff4fc25367a4ab04e53896c59615c8271f/testJson.json",
     "@type": "sc:Collection",
     "label": "Test Image",
     "attribution": "Online",
