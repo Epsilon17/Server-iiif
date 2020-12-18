@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://gist.githubusercontent.com/Epsilon17/c6afdb2f6ad360e3850dab3735a09271/raw/92eb37ff4fc25367a4ab04e53896c59615c8271f/testJson.json",
+    "@id": "https://gist.githubusercontent.com/Epsilon17/c6afdb2f6ad360e3850dab3735a09271/raw/85b8cf7b66df49e1159c7d737807c3fc40797222/testJson.json",
     "@type": "sc:Collection",
     "label": "Test Image",
     "attribution": "Online",
